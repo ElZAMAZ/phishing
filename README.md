@@ -74,5 +74,5 @@ This project is for educational purposes only. The author does not endorse or co
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 
 ## Contact
-For any questions or concerns, please contactzakariaelmastini01@gmail.com.
+For any questions or concerns, please contact zakariaelmastini01@gmail.com.
 
